@@ -1,73 +1,73 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:3:5-52
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Ayush\Team-Humana\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Ayush\Team-Humana\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:7:9-38
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:7:9-38
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:6:9-35
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:6:9-35
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:9:5-33:19
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:9:5-33:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Ayush\Team-Humana\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Ayush\Team-Humana\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:12:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:13:9-35
 	android:allowBackup
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:10:9-35
 	android:icon
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:11:9-43
 	android:theme
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.example.teamhumana.launcher_trial.MainActivity
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:15:9-32:20
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:15:9-32:20
 	android:clearTaskOnLaunch
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:19:13-45
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:19:13-45
 	android:stateNotNeeded
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:20:13-42
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:20:13-42
 	android:launchMode
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:18:13-44
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:18:13-44
 	android:theme
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:16:13-75
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:16:13-75
 	android:name
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:22:13-25:29
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:24:27-74
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:26:13-30:29
 category#android.intent.category.HOME
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:28:17-73
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:28:17-73
 	android:name
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:28:27-70
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:28:27-70
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:29:17-76
+ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:29:17-76
 	android:name
-		ADDED from C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\src\main\AndroidManifest.xml:29:27-73
+		ADDED from C:\Users\Ayush\Team-Humana\Humana_Launcher\app\src\main\AndroidManifest.xml:29:27-73

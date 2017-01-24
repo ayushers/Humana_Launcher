@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_414de4ba83303d6aae1275ad1ceb2ab8f8b5fe64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_2f9c815f93f5e753bf13f0710b3f46b2fb517044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_d153027c076ff0611aa7a6a0f2493c4c8e4fcbaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Ayush\AndroidStudioProjects\Humana_Launcher\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_5a81364b7f7a94e938554b173098a3e71b4a1fb5.jar" />
+    </item>
+
+</items>

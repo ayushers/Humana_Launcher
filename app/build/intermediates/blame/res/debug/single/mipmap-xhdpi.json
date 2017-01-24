@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Ayush\\AndroidStudioProjects\\Humana_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Ayush\\AndroidStudioProjects\\Humana_Launcher\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\Team-Humana\\Humana_Launcher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Ayush\\Team-Humana\\Humana_Launcher\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]
